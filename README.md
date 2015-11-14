@@ -5,17 +5,17 @@ This project is designed to cool ass php developers. There (are) collected and r
 The initial list is taken from the site [http://phpwtf.org](http://phpwtf.org)
 ## Usage
 1. Update your composer.json
-    Run ```composer require "neronmoon/php-wtf:dev-master"```
+    Run ```composer require "neronmoon/phpwtf:dev-master"```
     Or update it manually, by adding
 
     ```json
     ...
     "require": {
-        "neronmoon/php-wtf": "dev-master"
+        "neronmoon/phpwtf": "dev-master"
     }
     ...
     ```
-    
+
 1. Now in code you can use functions from namespace WTF (see tests or examples)
 
 ## Documentation
