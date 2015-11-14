@@ -1,5 +1,6 @@
 {
     "name": "neronmoon/php-wtf",
+    "version": "0.1",
     "description": "Dreams from http://phpwtf.org comes true",
     "keywords": [
         "php",
