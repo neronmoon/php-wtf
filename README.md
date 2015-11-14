@@ -7,6 +7,7 @@ The initial list is taken from the site [http://phpwtf.org](http://phpwtf.org)
 1. Update your composer.json
     Run ```composer require "neronmoon/php-wtf:dev-master"```
     Or update it manually, by adding
+
     ```json
     ...
     "require": {
@@ -14,6 +15,7 @@ The initial list is taken from the site [http://phpwtf.org](http://phpwtf.org)
     }
     ...
     ```
+    
 1. Now in code you can use functions from namespace WTF (see tests or examples)
 
 ## Documentation
