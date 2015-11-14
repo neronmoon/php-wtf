@@ -6,6 +6,7 @@ The initial list is taken from the site [http://phpwtf.org](http://phpwtf.org)
 ## Usage
 1. Update your composer.json
     Run ```composer require "neronmoon/phpwtf:dev-master"```
+    
     Or update it manually, by adding
 
     ```json

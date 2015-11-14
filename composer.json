@@ -15,9 +15,7 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "WTF\\": "src/"
-        }
+        "files": ["bootstrap.php"]
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
